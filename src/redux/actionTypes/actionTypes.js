@@ -1,0 +1,7 @@
+export const INIT_USER = 'INIT_USER'
+export const ADD_BET = 'ADD_BET'
+export const DELETE_BET = 'DELETE_BET'
+export const START_RACE = 'START_RACE'
+export const NEW_RACE = 'NEW_RACE'
+export const INIT_TEAM = 'NEW_RACE'
+export const ADD_TEAM = 'NEW_RACE'
